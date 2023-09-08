@@ -1,2 +1,3 @@
-2023/09/07-22:18:57.335 2d03 Creating DB /Users/garrett/Desktop/Junk.nosync/playwright-test-rig/playwright-data/Default/Session Storage since it was missing.
-2023/09/07-22:18:57.350 2d03 Reusing MANIFEST /Users/garrett/Desktop/Junk.nosync/playwright-test-rig/playwright-data/Default/Session Storage/MANIFEST-000001
+2023/09/07-22:25:57.310 2d03 Reusing MANIFEST /Users/garrett/Desktop/Junk.nosync/playwright-test-rig/playwright-data/Default/Session Storage/MANIFEST-000001
+2023/09/07-22:25:57.311 2d03 Recovering log #3
+2023/09/07-22:25:57.311 2d03 Reusing old log /Users/garrett/Desktop/Junk.nosync/playwright-test-rig/playwright-data/Default/Session Storage/000003.log 

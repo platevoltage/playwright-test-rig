@@ -22,4 +22,6 @@ const options = {
 
 const context = await chromium.launchPersistentContext(userDataDir, options);
 
+const page = await context.newPage();
+await page.goto("https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?utm_source=ext_app_menu");
 
