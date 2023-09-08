@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "playwright": "^1.37.1"
+    "follow-redirects": "^1.15.2",
+    "playwright": "^1.37.1",
+    "xmlhttprequest": "^1.8.0"
   },
   "devDependencies": {
     "eslint": "^8.48.0",
